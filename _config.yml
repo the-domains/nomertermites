@@ -1,0 +1,14 @@
+layout_spectrum: 0.017171577783301473
+typography_spectrum: 0.6064561086241156
+color:
+  brandStrength: 0.21370017644949257
+  lightness: 0.16596926609054208
+  saturation: 0.220056873280555
+  rhythmicContrast: 0.49302106513641775
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: nomertermites
